@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Clases/Clases.csproj" Id="3df4d510-01dd-41b9-a218-4c0c2162133d" />
+  <Project Path="GUI/GUI.csproj" Id="60c1a04e-7d72-49ec-bbf9-ecf61cf327c9" />
+</Solution>

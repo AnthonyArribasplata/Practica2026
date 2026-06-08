@@ -1,0 +1,6 @@
+C:\Users\UCC20300\source\repos\Semana11_EstDat\Clases\bin\Debug\Clases.dll
+C:\Users\UCC20300\source\repos\Semana11_EstDat\Clases\bin\Debug\Clases.pdb
+C:\Users\UCC20300\source\repos\Semana11_EstDat\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\UCC20300\source\repos\Semana11_EstDat\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\UCC20300\source\repos\Semana11_EstDat\Clases\obj\Debug\Clases.dll
+C:\Users\UCC20300\source\repos\Semana11_EstDat\Clases\obj\Debug\Clases.pdb
